@@ -1,0 +1,23 @@
+_repo: Songs-for-All-Seasons-and-Other-Poems_52115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bass, Cora C.
+    alias: Vane, Harley
+    gutenberg_agent_id: '46689'
+    url: http://www.gutenberg.org/2009/agents/46689
+description: ''
+gutenberg_issued: '2016-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+title: Songs for All Seasons, and Other Poems
+url: http://www.gutenberg.org/ebooks/52115
